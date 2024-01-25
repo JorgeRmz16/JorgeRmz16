@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**JorgeRmz16/JorgeRmz16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> <b>Hi, here Jorge 👋</b></h1>
+<p align="center">
+  <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineering+Student;Java+Back-end" alt="Typing SVG" /></a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">Technologies</h3>
+<p align="center">
+  <a href="https://skillicons.dev" align="center">
+    <img src="https://skillicons.dev/icons?i=java,py,git,bootstrap,css,figma,github,html,idea,java,js,linux,mysql,postman,react,&perline=15" />
+  </a>
+</p>
+<div align="center">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JorgeRmz16&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=11"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!--Intro start-->
+ - 🌱 I’m currently learning cybersecurity and backend with Java and SpringBoot
+ - 🤔 I’m looking for my first Job in IT
+<!--Intro end-->
