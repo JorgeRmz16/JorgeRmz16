@@ -7,7 +7,7 @@
 <h3 align="center">Technologies</h3>
 <p align="center">
   <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=java,py,git,bootstrap,css,figma,github,html,idea,java,js,linux,mysql,postman,react,&perline=15" />
+    <img src="https://skillicons.dev/icons?i=java,py,docker,jenkins,git,bootstrap,css,figma,github,html,idea,js,linux,mysql,postman,react,&perline=15" />
   </a>
 </p>
 <div align="center">
